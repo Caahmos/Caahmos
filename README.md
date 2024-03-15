@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao meu perfil! 😁
+## Cauã Morales
 
  <div>
-   <a href="https://github.com/AlexMoralesDEV">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexMoralesDEV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMoralesDEV&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/Caahmos">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caahmos&title_color=66E4F2&bg_color=041517&text_color=52D9D9&border_color=52D9D9"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caahmos&layout=compact&title_color=66E4F2&bg_color=041517&text_color=52D9D9&border_color=52D9D9"/>
 </div>
     
 <div style="display: inline_block"><br>
