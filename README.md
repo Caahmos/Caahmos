@@ -5,7 +5,9 @@
 
    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Caahmos&title_color=66E4F2&bg_color=020C0D&text_color=52D9D9&border_color=52D9D9"/>
    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caahmos&layout=compact&title_color=66E4F2&bg_color=020C0D&text_color=52D9D9&border_color=52D9D9"/>
-</div>
+   <img height="390px" src="https://github-readme-activity-graph.vercel.app/graph?username=Caahmos&bg_color=020c0d&color=52d9d9&line=52d9d9&point=66e4f2&area=true&hide_border=true">
+ 
+   [![trophy](https://github-profile-trophy.vercel.app/?username=Caahmos&theme=nord&column=3)](https://github.com/ryo-ma/github-profile-trophy)
     
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -23,8 +25,15 @@
  
 <br>
  
-### Pra mais conteúdo sobre programação me siga nas redes abaixo!
+### Pra mais conteúdo sobre programação me siga na rede abaixo!
  
 <div> 
   <a href="https://www.linkedin.com/in/cauã-alex-morales-55479b286/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+<p>
+
+   ![Visitor Count](https://profile-counter.glitch.me/Caahmos/count.svg)
+   
+</p>
 </div>
