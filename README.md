@@ -1,9 +1,11 @@
-## Cauã Morales
+<img src="https://capsule-render.vercel.app/api?type=waving&color=66E4F2&s">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=31&pause=1000&color=66E4F2&random=false&width=435&lines=Hello%2C+my+name+is+Cau%C3%A3+Morales;I+am+21+years+old;I+am+from+Brazil)](https://git.io/typing-svg)
 
  <div>
    <a href="https://github.com/Caahmos">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caahmos&title_color=66E4F2&bg_color=041517&text_color=52D9D9&border_color=52D9D9"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caahmos&layout=compact&title_color=66E4F2&bg_color=041517&text_color=52D9D9&border_color=52D9D9"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caahmos&title_color=66E4F2&bg_color=020C0D&text_color=52D9D9&border_color=52D9D9"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caahmos&layout=compact&title_color=66E4F2&bg_color=020C0D&text_color=52D9D9&border_color=52D9D9"/>
 </div>
     
 <div style="display: inline_block"><br>
