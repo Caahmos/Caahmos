@@ -3,8 +3,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=31&pause=1000&color=66E4F2&center=true&vCenter=true&random=false&width=600&lines=Hello%2C+my+name+is+Cau%C3%A3+Morales;I+am+21+years+old;I+am+from+Brazil)](https://git.io/typing-svg)
 
-   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Caahmos&title_color=66E4F2&bg_color=020C0D&text_color=52D9D9&border_color=52D9D9"/>
-   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caahmos&layout=compact&title_color=66E4F2&bg_color=020C0D&text_color=52D9D9&border_color=52D9D9"/>
+   <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Caahmos&title_color=66E4F2&bg_color=020C0D&text_color=52D9D9&border_color=52D9D9"/>
+   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caahmos&layout=compact&title_color=66E4F2&bg_color=020C0D&text_color=52D9D9&border_color=52D9D9"/>
 </div>
     
 <div style="display: inline_block"><br>
